@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="drawing2.1.svg">
+   sodipodi:docname="drawing2.1.svg"
+   inkscape:export-filename="C:\Users\Owner\Desktop\drawing2.1.png"
+   inkscape:export-xdpi="333.51999"
+   inkscape:export-ydpi="333.51999">
   <defs
      id="defs2">
     <linearGradient
@@ -74,17 +77,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40989715"
-     inkscape:cx="32.714502"
-     inkscape:cy="701.97261"
+     inkscape:zoom="1.1576392"
+     inkscape:cx="221.02623"
+     inkscape:cy="356.44181"
      inkscape:document-units="px"
      inkscape:current-layer="g890"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false" />
   <metadata
@@ -95,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
